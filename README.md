@@ -11,6 +11,9 @@ Managing containers on remote infrastructure traditionally relies on SSH session
 
 In the example below, the server binary is started for container `timescaledb`. The client sends a request for starting, retrieving status and then stopping the container on the server side.
 
+[Gravação de tela de 2026-07-22 10-14-18.webm](https://github.com/user-attachments/assets/ba41aa05-cb8c-46d2-a447-98d638cf428b)
+
+
 ## 1. Architecture 
 
 The system consists of two primary applications and a cryptographic helper utility:
