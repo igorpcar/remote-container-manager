@@ -1,0 +1,4 @@
+/bin/
+*.key
+private.key
+public.key
